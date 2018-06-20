@@ -1,5 +1,5 @@
 <?php
-namespace Proffer;
+namespace SoftDelete;
 
 use Cake\Core\BasePlugin;
 
