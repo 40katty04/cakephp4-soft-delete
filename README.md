@@ -9,7 +9,7 @@ When soft deleting an entity, it is not actually removed from your database. Ins
 
 ## Requirements
 
-This plugins has been developed for cakephp 3.x.
+This plugins has been developed for cakephp 4.x.
 
 ## Installation
 
@@ -18,7 +18,7 @@ You can install this plugin into your CakePHP application using [composer](http:
 Update your composer file to include this plugin:
 
 ```
-composer require mpinchuk/cakephp3-soft-delete "~1.0"
+composer require 40katty04/cakephp4-soft-delete "~1.0"
 ```
 
 ## Configuration
