@@ -34,7 +34,7 @@ trait SoftDeleteTrait {
         return $field;
     }
 
-    public function query()
+    public function query(): Cake\ORM\Query
     {
         return new Query($this->getConnection(), $this);
     }
